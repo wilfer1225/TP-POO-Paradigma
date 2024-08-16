@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "Propiedad": {
+      "Id": 1,
+      "Direccion": "Rivadavia 495",
+      "Tipo": "Casa",
+      "Precio": 10000.0,
+      "Propietario": "Wilfer Florentin",
+      "Descripcion": "Casa muy linda, amplia con patio"
+    },
+    "Cliente": {
+      "Id": 1,
+      "Nombre": "Pedro",
+      "Apellido": "Perez",
+      "Telefono": "3464789512",
+      "Email": "pedroperez@gmail.com"
+    },
+    "Monto": 0.0,
+    "FechaInicio": "2024-12-12T00:00:00",
+    "FechaFin": "2025-12-12T00:00:00"
+  },
+  {
+    "Id": 1,
+    "Propiedad": {
+      "Id": 1,
+      "Direccion": "Rivadavia 495",
+      "Tipo": "Casa",
+      "Precio": 10000.0,
+      "Propietario": "Wilfer Florentin",
+      "Descripcion": "Casa muy linda, amplia con patio"
+    },
+    "Cliente": {
+      "Id": 1,
+      "Nombre": "Pedro",
+      "Apellido": "Perez",
+      "Telefono": "3464789512",
+      "Email": "pedroperez@gmail.com"
+    },
+    "Monto": 0.0,
+    "FechaInicio": "2012-12-12T00:00:00",
+    "FechaFin": "2025-12-12T00:00:00"
+  }
+]

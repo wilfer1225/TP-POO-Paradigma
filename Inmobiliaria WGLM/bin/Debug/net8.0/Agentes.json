@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Carlos",
+    "Apellido": "Martinez",
+    "Puesto": "Vendedor",
+    "Salario": 5000.0
+  }
+]

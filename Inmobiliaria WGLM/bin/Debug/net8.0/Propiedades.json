@@ -1,0 +1,10 @@
+[
+  {
+    "Id": 1,
+    "Direccion": "Rivadavia 495",
+    "Tipo": "Casa",
+    "Precio": 10000.0,
+    "Propietario": "Wilfer Florentin",
+    "Descripcion": "Casa muy linda, amplia con patio"
+  }
+]
